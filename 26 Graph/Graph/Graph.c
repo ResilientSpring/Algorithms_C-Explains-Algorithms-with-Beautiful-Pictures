@@ -8,4 +8,6 @@
 #define MAX_VERTEX_SIZE 5
 #define STACKSIZE 1000
 
+typedef struct Vertex {
 
+};
