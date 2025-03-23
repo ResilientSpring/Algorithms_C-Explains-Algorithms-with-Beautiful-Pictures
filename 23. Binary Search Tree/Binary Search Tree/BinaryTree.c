@@ -12,3 +12,7 @@ typedef struct Node {
 
 
 Node* root = NULL;
+
+Node* createNewNode(int newData) {
+
+}
