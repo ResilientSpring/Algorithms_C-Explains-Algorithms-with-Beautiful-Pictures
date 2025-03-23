@@ -15,4 +15,6 @@ Node* root = NULL;
 
 Node* createNewNode(int newData) {
 
+	Node* newNode = NULL;
+
 }
