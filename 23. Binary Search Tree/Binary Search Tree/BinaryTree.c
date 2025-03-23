@@ -9,3 +9,6 @@ typedef struct Node {
 	struct Node* right;
 
 } Node;
+
+
+Node* root = NULL;
