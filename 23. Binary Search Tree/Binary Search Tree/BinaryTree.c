@@ -17,6 +17,14 @@ Node* createNewNode(int newData) {
 
 	Node* newNode = NULL;
 
-
 	newNode = (Node*)malloc(sizeof(Node));
+
+	newNode->data = newData;
+
+	newNode->left = NULL;
+
+	newNode->right = NULL;
+
+	return newNode;
+
 }
