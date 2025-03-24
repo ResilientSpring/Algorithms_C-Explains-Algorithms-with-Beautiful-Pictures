@@ -17,4 +17,6 @@ Node* createNewNode(int newData) {
 
 	Node* newNode = NULL;
 
+
+	newNode = (Node*)malloc(sizeof(Node));
 }
